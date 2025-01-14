@@ -4,6 +4,8 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNrOG10Z3k3cDVkNWNqbGkzbXViY2F3eHByZzR0MDBubHZocjNibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUUlX7fhMhnKYb6/giphy.gif"  />
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -22,9 +24,12 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
 ###
+
 
 <div align="left">
   <a href="https://harikrishnancj5@gmail.com" target="_blank">
