@@ -15,11 +15,16 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake.svg
+      - name: Generate snake.svg with dark theme
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: harikrishnancj
           outputs: dist/snake.svg
+          # Customizing colors
+          snake_color: "#FF5733"  # Example: orange snake
+          bgcolor: "#121212"     # Dark background (dark theme)
+          font_color: "#FFFFFF"  # White text for better visibility
+          # You can also customize more, like snake thickness, etc.
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
