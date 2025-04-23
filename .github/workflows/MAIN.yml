@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-      
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -15,15 +15,18 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake.svg with dark theme
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: harikrishnancj
           outputs: dist/snake.svg
-          # Correctly customize color parameters
-          snake_color: "#FF5733"   # Orange snake color
-          bgcolor: "#121212"       # Dark background (dark theme)
-          font_color: "#FFFFFF"    # White text for visibility
+
+      - name: Post-process SVG for dark theme
+        run: |
+          # Modify colors in the SVG file for dark mode
+          sed -i 's/#FFFFFF/#FF5733/g' dist/snake.svg  # Change snake color (example: orange snake)
+          sed -i 's/#000000/#121212/g' dist/snake.svg  # Change background to dark (dark theme)
+          sed -i 's/#000000/#FFFFFF/g' dist/snake.svg  # Change text color to white for visibility
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
