@@ -1,9 +1,10 @@
 <h1 align="left">Hi 👋! I'm Harikrishnan C J</h1>
 <h4 align="left">
-  
 I'm a B.Tech in Computer Science and Engineering graduate passionate about coding and exploring new technologies. I love learning, adapting, and tackling challenges to grow professionally.</h4>
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNrOG10Z3k3cDVkNWNqbGkzbXViY2F3eHByZzR0MDBubHZocjNibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUUlX7fhMhnKYb6/giphy.gif"  />
+
+###
 
 
 <div align="left">
@@ -26,6 +27,7 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+
 </div>
 
 ###
@@ -46,6 +48,11 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
 
 ![Snake animation](https://raw.githubusercontent.com/harikrishnancj/Harikrishnancj/output/snake.svg)
 <div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph.svg">
+</picture>
 
 
   <h3 align="left">
