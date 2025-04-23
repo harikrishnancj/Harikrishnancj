@@ -48,6 +48,12 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
 
 ![Snake animation](https://raw.githubusercontent.com/harikrishnancj/Harikrishnancj/output/snake.svg)
 <div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harikrishnancj/harikrishnancj/output/pacman-contribution-graph.svg">
+</picture>
+
 
   <h3 align="left">
 I’m driven by curiosity and a passion for contributing to projects, whether developing apps, analyzing data, or creating algorithms.</h3>
