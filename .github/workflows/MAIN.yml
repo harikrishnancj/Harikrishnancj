@@ -2,11 +2,11 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
-      - MAIN  # ✅ ensure this matches your branch name
+      - main
 
 jobs:
   generate:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: harikrishnancj  # ✅ your GitHub username
+          github_user_name: harikrishnancj
           outputs: dist/snake.svg
 
       - name: Push to output branch
