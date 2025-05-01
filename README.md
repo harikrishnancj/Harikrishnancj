@@ -46,10 +46,6 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/harikrishnancj/Harikrishnancj/output/snake.svg)
-<div>
-
-
   <h3 align="left">
 I’m driven by curiosity and a passion for contributing to projects, whether developing apps, analyzing data, or creating algorithms.</h3>
 
