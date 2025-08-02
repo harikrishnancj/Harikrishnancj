@@ -6,10 +6,6 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNrOG10Z3k3cDVkNWNqbGkzbXViY2F3eHByZzR0MDBubHZocjNibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUUlX7fhMhnKYb6/giphy.gif" />
 
----
-
-### 🛠️ Tech Stack
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -26,9 +22,7 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
   <img src="https://avatars.githubusercontent.com/u/148351741?s=200&v=4" height="30" alt="LangGraph" />
 </div>
 
----
 
-### 📬 Connect with me
 
 <div align="left">
   <a href="mailto:harikrishnancj5@gmail.com" target="_blank">
@@ -39,9 +33,6 @@ I'm a B.Tech in Computer Science and Engineering graduate passionate about codin
   </a>
 </div>
 
----
-
-### ✨ About Me
 
 <h3 align="left">
 I’m driven by curiosity and a passion for contributing to projects, whether developing apps, analyzing data, or creating algorithms.
